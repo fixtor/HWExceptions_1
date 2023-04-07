@@ -4,7 +4,7 @@
 
 public class Ex3 {
 	public static void main(String[] args) {
-		int[] arr1 = {10, 20, 30, 40, 50, 60};
+		int[] arr1 = {1, 2, 3, 4, 5, 6};
 		int[] arr2 = {1, 2, 3, 4, 5, 8, 11};
 		if(checkDiff(arr1, arr2))
 			System.out.println("Массивы не одинаковы");
